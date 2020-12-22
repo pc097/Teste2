@@ -7,9 +7,10 @@ public class Teste {
 		int base = 4;
 		int altura = 3;
 		float area = base * altura / 2;
-		System.out.println("A área do traingulo é " + area);
+		System.out.println("A Ã¡rea do traingulo Ã© " + area);
 		// teste de commit
 //		outro teste
+		// mais um teste
 	}
 
 }
